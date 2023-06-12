@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asjay18&count_private=true&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=counttoten&count_private=true&show_icons=true&theme=default)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
